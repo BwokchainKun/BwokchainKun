@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Nara-Kun here as BwokchainKun
+## Always Writting code everyday until Ichigyou Ruri tell me to stop >_<
 
 <!--
 **BwokchainKun/BwokchainKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
